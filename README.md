@@ -1,2 +1,3 @@
 # GeekhubHW1
-HW1 composer,git
+HW2: composer,git
+[Demo](http://hw2.kuzserv.ru/)
