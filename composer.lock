@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b2b3e38f0bac981e75b14aae5fa42075",
-    "content-hash": "917a5170e25a70be70d5fbdfd9d81651",
+    "hash": "a4181f564aacf65ea644ceeaaf0514a7",
+    "content-hash": "be1f461675bf2466a7c193139b0ffb44",
     "packages": [
         {
             "name": "anthonymartin/geo-location",
@@ -345,7 +345,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": ">=5.4.0",
+        "php": ">=5.5.0",
         "ext-curl": "*",
         "ext-json": "*"
     },
