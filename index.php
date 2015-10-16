@@ -29,7 +29,7 @@ $cityWeather = $forecast->get(
 );
 print('Temperature in your city ' . $cityWeather->currently->temperature . ' °С<br>');
 
-$locations = ['Kiev', 'London', 'Moscow', 'Tokyo'];
+$locations = ['Kiev', 'London', 'Moscow', 'Tokyo', 'New York', 'Ottawa', 'Beijing'];
 
 foreach ($locations as $item) {
     $response = GeoLocation::getGeocodeFromGoogle($item);
