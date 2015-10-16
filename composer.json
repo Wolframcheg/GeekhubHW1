@@ -15,7 +15,6 @@
         "imagine/imagine": "^0.6.3",
         "ext-curl": "*",
         "ext-json": "*",
-        "geoip2/geoip2": "^2.3",
         "guhelski/forecast-php": "^1.1",
         "anthonymartin/geo-location": "^1.0",
         "jeroendesloovere/distance": "1.0.2.1"
